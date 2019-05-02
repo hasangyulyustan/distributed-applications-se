@@ -1,0 +1,15 @@
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\obj\Debug\MC.WcfServices.csprojAssemblyReference.cache
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\MC.WcfServices.dll.config
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\MC.WcfServices.dll
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\MC.WcfServices.pdb
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\EntityFramework.dll
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\MC.Data.dll
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\MC.Data.pdb
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\MC.Data.dll.config
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\EntityFramework.xml
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\bin\EntityFramework.SqlServer.xml
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\obj\Debug\MC.WcfServices.csproj.CopyComplete
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\obj\Debug\MC.WcfServices.dll
+C:\Users\User\projects\tests\01\MovieCatalog\MC.WcfService\obj\Debug\MC.WcfServices.pdb
