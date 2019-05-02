@@ -12,3 +12,15 @@ C:\Users\User\projects\tests\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
 C:\Users\User\projects\tests\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
 C:\Users\User\projects\tests\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.initial.resources
 C:\Users\User\projects\tests\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.cache
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojAssemblyReference.cache
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CopyComplete
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+F:\Education\DistributedApplications-SE\distributed-applications-se\exercises\01\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
