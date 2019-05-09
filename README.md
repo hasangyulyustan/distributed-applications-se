@@ -6,7 +6,7 @@ This repository is part of the distributed applications course for Software Engi
 ### Weeks Schedule
 
 * Second week:
-  * exercises - [1](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/01)
+  * exercises - [2](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/01)
 
 * Third week:
-  * exercises - [2](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/03)
+  * exercises - [3](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/03)
