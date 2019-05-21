@@ -6,10 +6,10 @@ This repository is part of the distributed applications course for Software Engi
 ### Course Tasks
 
 * Task even faculty numbers:
-  * link - [1](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/tasks/task_even.md)
+  * link - [1](https://github.com/hasangyulyustan/distributed-applications-se/blob/master/tasks/tasks_even.md)
 
 * Task odd faculty numbers:
-  * link - [2](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/tasks/task_odd.md)
+  * link - [2](https://github.com/hasangyulyustan/distributed-applications-se/blob/master/tasks/tasks_odd.md)
 
 
 #
