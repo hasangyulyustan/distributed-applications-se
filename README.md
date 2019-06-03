@@ -23,3 +23,6 @@ This repository is part of the distributed applications course for Software Engi
 
 * Fourth week:
   * exercises - [4](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/04)
+
+* Fifth week:
+  * exercises - [5](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/05)
