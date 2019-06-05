@@ -49,7 +49,7 @@ namespace MC.Website.Controllers
                         GenresReference.GenreDto genreDto = new GenresReference.GenreDto
                         {
                             Name = genreVM.Name,
-                            
+                            Id = genreVM.Id
                         };
                         service.PostGenre(genreDto);
                     }

@@ -74,9 +74,9 @@ C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatal
 C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
 C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojAssemblyReference.cache
-C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.Initial.resources
-C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.cache
 C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
 C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CopyComplete
 C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
 C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
+C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.initial.resources
+C:\Users\User\projects\DA-se\distributed-applications-se\exercises\06\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.cache

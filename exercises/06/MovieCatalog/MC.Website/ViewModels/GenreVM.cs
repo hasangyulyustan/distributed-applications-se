@@ -14,7 +14,6 @@ namespace MC.Website.ViewModels
 
         public GenreVM(GenreDto genreDto)
         {
-            Id = genreDto.Id;
             Name = genreDto.Name;
         }
     }
