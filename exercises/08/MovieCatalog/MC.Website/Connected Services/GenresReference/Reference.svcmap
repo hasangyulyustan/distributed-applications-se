@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="10c3876a-d55c-4172-88d0-692f8195c910" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:63956/Genres.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Genres.disco" MetadataType="Disco" ID="00c29363-4b46-4fe7-9860-053b1def4a12" SourceId="1" SourceUrl="http://localhost:63956/Genres.svc?disco" />
+    <MetadataFile FileName="Genres.wsdl" MetadataType="Wsdl" ID="0955728f-c4f2-483c-abae-6448fbe47be4" SourceId="1" SourceUrl="http://localhost:63956/Genres.svc?wsdl" />
+    <MetadataFile FileName="Genres.xsd" MetadataType="Schema" ID="408b5b9c-a035-4a51-afbe-095f868ac822" SourceId="1" SourceUrl="http://localhost:63956/Genres.svc?xsd=xsd0" />
+    <MetadataFile FileName="Genres1.xsd" MetadataType="Schema" ID="5e155ad7-af2c-4abe-b620-40a0426b68b2" SourceId="1" SourceUrl="http://localhost:63956/Genres.svc?xsd=xsd1" />
+    <MetadataFile FileName="Genres2.xsd" MetadataType="Schema" ID="39e0eb6c-be39-4e44-946e-0d874ba35cd9" SourceId="1" SourceUrl="http://localhost:63956/Genres.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
