@@ -35,3 +35,7 @@ This repository is part of the distributed applications course for Software Engi
 
 * Eighth week:
   * exercises - [8](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/08)
+
+* Nineth week:
+  * exercises - [9](https://github.com/hasangyulyustan/distributed-applications-se/tree/master/exercises/09)
+  * Custom Authentication and Authorization in WCF Tutorial:  https://www.codeproject.com/Articles/698862/Custom-Authentication-and-Authorization-in-WCF
